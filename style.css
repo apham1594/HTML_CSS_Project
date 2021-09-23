@@ -8,4 +8,12 @@ h1{
     text-align: center;
     color:
 }
-
+footer{
+background-color: #666;
+    color: #ccc;
+    text-align: left;
+    width: 100%;
+    height: 65px;
+    position: sticky;
+    border-top: 5px solid #4aaaa5;
+}
